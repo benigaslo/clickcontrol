@@ -6,7 +6,7 @@ Coses relatives a ClickControl.
 
 Els arxius per a windows estan al OneDrive de CoordinacioTIC. (És millor que vingen els tècnics, perquè és un procés llarg...)
 
-Per a que se puga activar el Office365 en els usuaris ClickControl en Windows 10 cal agefir la següent entrada al regedit:
+Per a que se puga activar el Office365 en els usuaris ClickControl en Windows 10 cal afegir la següent entrada al regedit:
 
     HKEY_LOCAL_MACHINE\Software\Microsoft\Cryptography\Protect\Providers\df9d8cd0...  > Nuevo > DWORD > ProtectionPolicy = 1
 
